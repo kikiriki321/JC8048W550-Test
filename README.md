@@ -1,3 +1,7 @@
+
+⚠️ **Note:** Some terms in this code are not translated into English, so please have some translation software handy.
+The language is - Croatian.
+
 📘 User Manual: Guition JC8048W550 Test Bench
 =============================================
 
