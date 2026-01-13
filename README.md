@@ -2,7 +2,7 @@
 ⚠️ **Note:** Some terms in this code are not translated into English, so please have some translation software handy.
 The language is - Croatian.
 
-📘 User Manual: Guition JC8048W550 Test Bench
+📘 User Manual: Guition JC8048W550 Test Bench (for VS Code+Platformio)
 =============================================
 
 This firmware transforms the **Guition JC8048W550** development board into a standalone hardware diagnostic tool. It verifies the functionality of the ESP32-S3 chip, the 4.3" RGB Panel, the GT911 Touch controller, and all onboard peripherals.
